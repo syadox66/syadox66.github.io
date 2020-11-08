@@ -1,5 +1,3 @@
-{
-    "movies":[
         {
             "poster": "https://urlz.fr/e6C8",
             "title": "Your Lie In April",
@@ -70,5 +68,3 @@
             ],
             "trailer":""
         }
-    ]
-}
