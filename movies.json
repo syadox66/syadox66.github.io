@@ -1,72 +1,74 @@
-[
-    {   
-        "poster": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
-        "title": "Your Lie In April",
-        "categories": "Anime, Comedy",
-        "year": 2014,
-        "episodes": 22,
-        "description":"Quand Arima Kosei était petit, il était considéré comme un enfant prodige du piano. Mais après la mort de sa mère, il ne put plus entendre le son du piano. Quelque années plus tard, il rencontre une violoniste nommée Kawori Miyazono. Elle va le forcer à participer à plusieurs compétitions de piano, ce qui va lui faire redécouvrir le monde musical. Mais la violoniste cache un grand secret à ses amis...",
-        "screenshots": [
-            "https://urlz.fr/e6Cb",
-            "https://urlz.fr/e6Cc",
-            "https://urlz.fr/e6Ce"
-        ],
-        "trailer":""
-    },
-    {
-        "poster": "",
-        "title": "Tower of God",
-        "categories": "Mystère, Action, Adventure, Science-Fiction",
-        "year": 2020,
-        "episodes": 13,
-        "description":"Atteignez le sommet et tout vous appartiendra ! Celui qui parvient en haut de la tour verra ses souhaits les plus fous être exaucés. Il deviendra alors un dieu ! C'est l'histoire du début et de la fin de Rachel, une fille partie dans la tour pour toucher les étoiles, et de Bam, un garçon qui ne vit que pour elle…",
-        "screenshots": [
-            "",
-            "",
-            ""
-        ],
-        "trailer":""
-    },
-    {
-        "poster":"",
-        "title":"Hunter x Hunter",
-        "categories":"Action, Adventure, Animation, Drame",
-        "year": 2011,
-        "episodes": 148,
-        "description":"Le jeune Gon vit sur une petite île avec sa tante. Abandonné par son père qui est un Hunter, à la fois un aventurier et un chasseur de primes, Gon décide à l'âge de 12 ans de partir pour devenir un Hunter. Cela ne sera pas chose aisée, il devra passer une suite de tests et examens en compagnie de milliers d'autres prétendants au titre de Hunter. Il sera aidé par de nouvelles connaissances qui aspirent au même but que lui tel que Kurapika, Leorio et Killua.",
-        "screenshots":[
-            "",
-            "",
-            ""
-        ],
-        "trailer":""
-    },
-    {
-        "poster":"",
-        "title":"One Piece",
-        "categories":"Action, Adventure, Comédie, Animation",
-        "year": 1999,
-        "episodes": 946,
-        "description":"Il fut un temps où Gold Roger était le plus grand de tous les pirates, le 'Roi des Pirates' était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de One Piece fut caché quelque part sur Grand Line. De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau 'Roi des Pirates'. Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
-        "screenshots":[
-            "",
-            "",
-            ""
-        ],
-        "trailer":""
-    },
-    {
-        "poster":"",
-        "title":"Parasite",
-        "categories":"Animation, Drame, Science-Fiction, Fantastique, Crime",
-        "year": 2014,
-        "episodes": 24,
-        "description":"De mystérieuses créatures ont colonisé la Terre en prenant possession de certains habitants. Un lycéen, Shin’ichi, a été contaminé, mais son cerveau est épargné. Seul son bras droit est possédé par un parasite, Migi, qu'il apprend peu à peu à connaître. Tous deux doivent désormais cohabiter, mais dans le même temps, Shin’ichi comprend que la prolifération des parasites menace, à terme, l’espèce humaine.",
-        "screenshots":[
-            "",
-            "",
-            ""
-        ],
-        "trailer":""
-    }
-]
+{
+    "movies":[
+        {
+            "poster": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
+            "title": "Your Lie In April",
+            "categories": "Anime, Comedy",
+            "year": 2014,
+            "episodes": 22,
+            "description":"Quand Arima Kosei était petit, il était considéré comme un enfant prodige du piano. Mais après la mort de sa mère, il ne put plus entendre le son du piano. Quelque années plus tard, il rencontre une violoniste nommée Kawori Miyazono. Elle va le forcer à participer à plusieurs compétitions de piano, ce qui va lui faire redécouvrir le monde musical. Mais la violoniste cache un grand secret à ses amis...",
+            "screenshots": [
+                "https://urlz.fr/e6Cb",
+                "https://urlz.fr/e6Cc",
+                "https://urlz.fr/e6Ce"
+            ],
+            "trailer":""
+        },
+        {
+            "poster": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
+            "title": "Tower of God",
+            "categories": "Mystère, Action, Adventure, Science-Fiction",
+            "year": 2020,
+            "episodes": 13,
+            "description":"Atteignez le sommet et tout vous appartiendra ! Celui qui parvient en haut de la tour verra ses souhaits les plus fous être exaucés. Il deviendra alors un dieu ! C'est l'histoire du début et de la fin de Rachel, une fille partie dans la tour pour toucher les étoiles, et de Bam, un garçon qui ne vit que pour elle…",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "trailer":""
+        },
+        {
+            "poster":"https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
+            "title":"Hunter x Hunter",
+            "categories":"Action, Adventure, Animation, Drame",
+            "year": 2011,
+            "episodes": 148,
+            "description":"Le jeune Gon vit sur une petite île avec sa tante. Abandonné par son père qui est un Hunter, à la fois un aventurier et un chasseur de primes, Gon décide à l'âge de 12 ans de partir pour devenir un Hunter. Cela ne sera pas chose aisée, il devra passer une suite de tests et examens en compagnie de milliers d'autres prétendants au titre de Hunter. Il sera aidé par de nouvelles connaissances qui aspirent au même but que lui tel que Kurapika, Leorio et Killua.",
+            "screenshots":[
+                "",
+                "",
+                ""
+            ],
+            "trailer":""
+        },
+        {
+            "poster":"https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
+            "title":"One Piece",
+            "categories":"Action, Adventure, Comédie, Animation",
+            "year": 1999,
+            "episodes": 946,
+            "description":"Il fut un temps où Gold Roger était le plus grand de tous les pirates, le 'Roi des Pirates' était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de One Piece fut caché quelque part sur Grand Line. De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau 'Roi des Pirates'. Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
+            "screenshots":[
+                "",
+                "",
+                ""
+            ],
+            "trailer":""
+        },
+        {
+            "poster":"https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
+            "title":"Parasite",
+            "categories":"Animation, Drame, Science-Fiction, Fantastique, Crime",
+            "year": 2014,
+            "episodes": 24,
+            "description":"De mystérieuses créatures ont colonisé la Terre en prenant possession de certains habitants. Un lycéen, Shin’ichi, a été contaminé, mais son cerveau est épargné. Seul son bras droit est possédé par un parasite, Migi, qu'il apprend peu à peu à connaître. Tous deux doivent désormais cohabiter, mais dans le même temps, Shin’ichi comprend que la prolifération des parasites menace, à terme, l’espèce humaine.",
+            "screenshots":[
+                "",
+                "",
+                ""
+            ],
+            "trailer":""
+        }
+    ]
+}
