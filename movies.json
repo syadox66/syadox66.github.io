@@ -1,6 +1,6 @@
 [
     {
-        "id": 1
+        "id": 1,
         "poster": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
         "title": "Your Lie In April",
         "categories": "Anime, Comedy",
@@ -15,7 +15,7 @@
         "trailer":""
     },
     {
-        "id": 2
+        "id": 2,
         "poster": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
         "title": "Tower of God",
         "categories": "Mystère, Action, Adventure, Science-Fiction",
@@ -30,7 +30,7 @@
         "trailer":""
     },
     {
-        "id": 3
+        "id": 3,
         "poster":"https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
         "title":"Hunter x Hunter",
         "categories":"Action, Adventure, Animation, Drame",
@@ -45,7 +45,7 @@
         "trailer":""
     },
     {
-        "id": 4
+        "id": 4,
         "poster":"https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
         "title":"One Piece",
         "categories":"Action, Adventure, Comédie, Animation",
@@ -60,7 +60,7 @@
         "trailer":""
     },
     {
-        "id": 5
+        "id": 5,
         "poster":"https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
         "title":"Parasite",
         "categories":"Animation, Drame, Science-Fiction, Fantastique, Crime",
