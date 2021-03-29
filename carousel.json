@@ -1,4 +1,5 @@
-{
+[
+    {
         "id": 1,
         "poster": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
         "title": "Your Lie In April",
@@ -29,7 +30,7 @@
         "trailer":""
     },
     {
-        "id": 2,
+        "id": 3,
         "poster": "https://d2y6mqrpjbqoe6.cloudfront.net/image/upload/f_auto,q_auto/media/library-400/216_636967437355378335Your_Lie_Small_hq.jpg",
         "title": "Tower of God",
         "categories": "Mystère, Action, Adventure, Science-Fiction",
