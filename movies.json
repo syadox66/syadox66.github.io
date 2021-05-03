@@ -27,7 +27,34 @@
             "https://www.gamerevolution.com/assets/uploads/2020/04/Tower-of-God-episode-5-1280x720.jpg",
             "https://animeshelter.com/wp-content/uploads/2020/04/tower-of-god-episode-3-11.png"
         ],
-        "trailer":""
+        "trailer":"",
+        "episodelist": [
+            {
+                "number": 1,
+                "title": "La sphère",
+                "video": "https://fs130.myvi.tv:8092/mD/cq/th/aP/yU/i1/e4/R-/DM/_F/bg/2/2.mp4?&s=2Wc8lDzRyd2aYkykE8_DTpwP9wT0B0LNOZoBDY7Fw5c-qZtvs4S20-0kZYLgGJ12I2Cu3Cw-t2zqE4CFVVBkHQ2&r=kdPUVezSrOlvbXF6YtwG3vhk6cIVdqD7rbLfz5tyFJk1&do=1524&d=1372&ri=j2IWR5sA0EeNLYkP2XvBSg2"
+            },
+            {
+                "number": 2,
+                "title": "3/400",
+                "video": "https://cvs12.sibnet.ru/35/79/08/3579083.mp4?st=gMYRCEx2hZ0Sik-bfLLElg&e=1620092000&stor=6&noip=1"
+            },
+            {
+                "number": 3,
+                "title": "La bonne porte",
+                "video": "https://fs91.myvi.tv:8092/wg/A0/vt/2-/kE/ad/I0/fk/CN/V6/lQ/2/2.mp4?&s=M9Phe6_xyhkwhi3W3gxKuJoPFYMGSwxuxQqHRs9Ji_-oSqksp0M_u7O0Cu3ROnqzD6uTQw7pCmvSDGAgBvDVQA2&r=a-SEQpgNu-2orvk5nGQyFk63SaaNZb7_W3l4YAg59pI1&do=1434&d=1291&ri=UcU21GDmOECpMDvCf4moPQ2"
+            },
+            {
+                "number": 4,
+                "title": "Avril vert",
+                "video": "https://dv25.sibnet.ru/35/97/54/3597547.mp4?st=MZvD0vRm1CwCHpJmQ6lTuA&e=1620092000&stor=25&noip=1"
+            },
+            {
+                "number": 5,
+                "title": "Le dénouement du Jeu de la couronne",
+                "video": "https://dv23.sibnet.ru/36/07/70/3607704.mp4?st=Rku-AUPE_4_mie190z_NcA&e=1620092000&stor=23&noip=1"
+            }
+        ]
     },
     {
         "id": 3,
